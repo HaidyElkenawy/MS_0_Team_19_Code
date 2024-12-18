@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ultrasonic.h": "c",
+        "pwm.h": "c",
+        "ir_sensor.h": "c",
+        "lcd.h": "c"
+    }
+}
